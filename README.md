@@ -15,3 +15,4 @@ Home Page
 ![Six week courses Cooking](https://github.com/user-attachments/assets/38a7f6a8-4f12-4840-922d-726ba1963b6c)
 ![Garden Maintanance](https://github.com/user-attachments/assets/41af1d2b-f7fb-4edb-a15e-70436125f178)
 ![Child Minding](https://github.com/user-attachments/assets/8897d604-7a4d-4ffc-8f54-ae5d7056f711)
+![Fees3](https://github.com/user-attachments/assets/47e3a64e-94e2-4951-a1ed-de4aae080749)
