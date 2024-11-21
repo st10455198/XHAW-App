@@ -1,7 +1,7 @@
 # XHAW-App
-
+Home Page
 ![Home Page](https://github.com/user-attachments/assets/27f4c698-9dd5-43a5-b6f7-4ab7f32131aa)
-Home-Page
+
 
 ![Sewing Description](https://github.com/user-attachments/assets/e60610a1-86a6-4b0a-bc02-31730db1390e)![Life Skills](https://github.com/user-attachments/assets/138c4555-591d-47e2-9eea-121e1ee73b2d)
 ![Landscapping](https://github.com/user-attachments/assets/92d6e800-638b-4ed7-9457-ce7047592ff4)
