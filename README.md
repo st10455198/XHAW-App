@@ -11,3 +11,7 @@ Home Page
 ![Sewing Description](https://github.com/user-attachments/assets/6788a23a-fd63-447e-8d0e-6fdd3f74c38e)
 
 
+![Six Week Courses](https://github.com/user-attachments/assets/d679a886-6ba6-49b3-95a4-7212fda0db57)
+![Six week courses Cooking](https://github.com/user-attachments/assets/38a7f6a8-4f12-4840-922d-726ba1963b6c)
+![Garden Maintanance](https://github.com/user-attachments/assets/41af1d2b-f7fb-4edb-a15e-70436125f178)
+![Child Minding](https://github.com/user-attachments/assets/8897d604-7a4d-4ffc-8f54-ae5d7056f711)
